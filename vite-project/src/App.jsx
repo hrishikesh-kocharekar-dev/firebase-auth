@@ -1,0 +1,14 @@
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
+import "./App.css";
+import Auth from "./components/Auth";
+
+function App() {
+  return (
+    <div className="App">
+      <Auth />
+    </div>
+  );
+}
+
+export default App;
